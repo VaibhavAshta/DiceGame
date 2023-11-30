@@ -7,13 +7,13 @@ Dicee is a two-player game where each player clicks a button to roll a die, and 
 
 ## How to Play
 
-1. Open the [Dicee Game](#) in your web browser.
+1. Open the [Dicee Game](https://vaibhavashta.github.io/DiceGame/) in your web browser.
 2. Click the "Click Here to Play" button to roll the dice for both players.
 3. The player with the higher number wins. In case of a tie, it's a draw.
 
 ## Screenshots
 
-Include screenshots or GIFs of your Dicee game in action.
+![Screenshot_DiceGame](https://github.com/VaibhavAshta/VaibhavAshta/assets/88577836/2e0d172e-595a-4cec-b7e8-5d5e20706d33)
 
 ## Technologies Used
 
@@ -28,10 +28,6 @@ Include screenshots or GIFs of your Dicee game in action.
 - `script.js`: JavaScript file for game logic.
 - `images/`: Directory containing dice images.
 
-## Preview
-
-[Add a link or screenshot here for a live preview if available.]
-
 ## Contributing
 
 Feel free to contribute to improve the game or fix any issues. Just fork the repository, make your changes, and create a pull request.
@@ -39,7 +35,3 @@ Feel free to contribute to improve the game or fix any issues. Just fork the rep
 ## Author
 
 🎲 [Vaibhav Ashta](#) 🎲 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
